@@ -1,0 +1,2 @@
+com/github/sroddy/flutterstringencryption/BuildConfig.java
+ com.github.sroddy.flutterstringencryption.BuildConfig

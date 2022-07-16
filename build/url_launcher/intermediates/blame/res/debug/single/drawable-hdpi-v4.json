@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

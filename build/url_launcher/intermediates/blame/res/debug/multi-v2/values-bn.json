@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\KS Project V1\\Contact_tracking_KS_Project_Mobile_APP\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abdul Wasay Sardar\\.gradle\\caches\\transforms-2\\files-2.1\\50f219e45361b4021b70c54bb2fc8a81\\core-1.1.0\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

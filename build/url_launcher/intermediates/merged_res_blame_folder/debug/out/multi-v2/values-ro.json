@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\abdulwasaysardar-epidemics-contact-tracing-prediction-and-prevention-leveraging-19874226c875\\build\\url_launcher\\intermediates\\res\\merged\\debug\\values-ro\\values-ro.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jamsh\\.gradle\\caches\\transforms-2\\files-2.1\\8c3a4df120e89435fdc615e35f9161d3\\core-1.1.0\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\abdulwasaysardar-epidemics-contact-tracing-prediction-and-prevention-leveraging-19874226c875\\build\\url_launcher\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jamsh\\.gradle\\caches\\transforms-2\\files-2.1\\8c3a4df120e89435fdc615e35f9161d3\\core-1.1.0\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

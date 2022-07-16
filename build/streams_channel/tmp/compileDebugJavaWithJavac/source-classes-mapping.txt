@@ -1,0 +1,11 @@
+app/loup/streams_channel/StreamsChannelPlugin.java
+ app.loup.streams_channel.StreamsChannelPlugin
+app/loup/streams_channel/StreamsChannel.java
+ app.loup.streams_channel.StreamsChannel
+ app.loup.streams_channel.StreamsChannel$1
+ app.loup.streams_channel.StreamsChannel$IncomingStreamRequestHandler
+ app.loup.streams_channel.StreamsChannel$IncomingStreamRequestHandler$EventSinkImplementation
+ app.loup.streams_channel.StreamsChannel$Stream
+ app.loup.streams_channel.StreamsChannel$StreamHandlerFactory
+app/loup/streams_channel/BuildConfig.java
+ app.loup.streams_channel.BuildConfig

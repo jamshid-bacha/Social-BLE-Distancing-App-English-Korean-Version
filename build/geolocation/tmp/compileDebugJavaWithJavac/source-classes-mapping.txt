@@ -1,0 +1,2 @@
+app/loup/geolocation/BuildConfig.java
+ app.loup.geolocation.BuildConfig

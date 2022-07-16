@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600945180206",
+    "project_id": "epidemics-contact-tracing",
+    "storage_bucket": "epidemics-contact-tracing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600945180206:android:112407f2008e64659469bf",
+        "android_client_info": {
+          "package_name": "com.wasay.where"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600945180206-tflvopb0ng761sf0gmalucieec4tuh9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxEjNcOWHdKnnXQtwMy3IVTVwYJ8Mnv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600945180206-tflvopb0ng761sf0gmalucieec4tuh9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
