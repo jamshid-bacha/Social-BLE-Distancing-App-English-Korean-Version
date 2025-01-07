@@ -1,28 +1,28 @@
 # Code Running #
 
-For the running of code use following command: Flutter run lib\widgets.dart
+For the running of code use the following command: Flutter run lib\widgets.dart
 
 # Project for Pandemic #
 
-KS mobile app is developed for the contact tracing of COVID-19 patient to avoid the spread of COVID-19. Health departments use contact tracing apps to find people who may have meet someone with COVID-19. KS app help to capture data (contacts of COVID-19 Patient) and watch the movement of people to make the process faster and more useful. KS Project has several features:
+KS mobile app has been developed to track the contact of COVID-19 patients to avoid the spread of COVID-19. Health departments use contact tracing apps to find people who may have met someone with COVID-19. KS app helps to capture data (contacts of COVID-19 Patients) and watch the movement of people to make the process faster and more useful. KS Project has several features:
 
 # Contact Tracing #
-When someone is in your Bluetooth range, app automatically scan that app user and Storing information first locally in a device and then store on the server. When someone is COVID positive, with the help of their contact information, app send alert message to all those who are in contact of that person.
+When someone is in your Bluetooth range, the app automatically scans that app user and storing information first locally in a device and then stored on the server. When someone is COVID-positive, with the help of their contact information, the app sends an alert message to all those who are in contact with that person.
 
-# Alert #
-Sending alert message to app users that are in contact of COVID-19 positive person.
+# Notification #
+Sending alert messages to users who are in contact with a COVID-19-positive person.
 
 # Geo-Fencing #
-When someone is going to the area that is red alert area (area in which COVID-19 patients present), app send alert message that please careful you are going to enter red alert area.
+When someone is going to the area that is a red alert area (an area in which COVID-19 patients are present), the app sends an alert message that please be careful you are going to enter the red alert area.
 
-# Contact Tracing Tree #
-When someone is COVID positive or in contact of COVID positive patient, with the help of contact tree, the system identifies the overall contacts of that person.
+# Contact Tracing Mobile App Overview #
+When someone is COVID-positive or in contact of COVID positive patient, with the help of a contact tree, the system identifies the overall contacts of that person.
 
 ![architecture](https://github.com/user-attachments/assets/f070b659-da82-469a-845c-8aeaef6d42fc)
 
 # Current Work #
 
-Login, Signup is intergrated with sensor data, Beacons Data (BT) and Basic GUI. 
+Login and signup are integrated with sensor data, Beacons Data (BT), and Basic GUI. 
 
 
 <p float="left">
